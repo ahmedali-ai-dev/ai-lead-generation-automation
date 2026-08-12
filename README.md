@@ -39,3 +39,6 @@ Lead Qualification
 Structured Lead Data
     ↓
 CRM / Google Sheets
+## Workflow
+
+![AI Lead Generation & Qualification Automation](workflow.png)
