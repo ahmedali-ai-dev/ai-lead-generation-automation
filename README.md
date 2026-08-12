@@ -21,7 +21,6 @@ The workflow combines web scraping, HTTP requests, data processing, and AI-power
 
 ## Workflow
 
-```text
 Lead Source
     ↓
 Data Extraction
@@ -39,6 +38,3 @@ Lead Qualification
 Structured Lead Data
     ↓
 CRM / Google Sheets
-## Workflow
-
-![AI Lead Generation & Qualification Automation](./workflow.png)
